@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
-<!--
-**Chromicle/chromicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Sophomore at <a href="http://amrita.edu">Amrita University 🎓</a>
+</br>Android Developer | UI designer | Open Source enthusiast</a>
+</em></p>
 
-Here are some ideas to get you started:
+[![linkedin badge](https://img.shields.io/badge/linkedin-chromicle-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chromicle/)
+[![twitter badge](https://img.shields.io/badge/twitter-@chromicle_3-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/chromicle_3)
+[![blog badge](https://img.shields.io/badge/chromicle.github.io/blog-1f425f?style=flat-square)](https://chromicle.github.io/blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### :octocat: A little more about me...  
+
+```javascript
+const chromicle = {
+  code: [Java, Kotlin, Dart, Python, C, C++],
+  askMeAbout: ["UI designing", "Flutter", "Android development", "Git", "Open-source"],
+  currentlyLearning: ["UI/UX design", "woo-commerce"],
+  techCommunities: {
+                        mentor: ["amFOSS", "Codesis", "The dev byte"]
+                      },
+   pronouns: "He | Him | His"
+}
+```
+
+😄 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> :)
+
+---
