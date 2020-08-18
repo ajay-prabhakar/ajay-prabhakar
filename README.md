@@ -16,6 +16,7 @@ const chromicle = {
   code: [Java, Kotlin, Dart, Python, C, C++],
   askMeAbout: ["UI designing", "Flutter", "Android development", "Git", "Open-source"],
   currentlyLearning: ["UI/UX design", "woo-commerce"],
+  currentlyWorkingAs: ["Android developer at CometChat"],
   techCommunities: {
                         mentor: ["amFOSS", "Codesis", "The dev byte"]
                       },
