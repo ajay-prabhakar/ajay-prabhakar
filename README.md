@@ -9,7 +9,6 @@
 [![blog badge](https://img.shields.io/badge/chromicle.github.io/blog-1f425f?style=flat-square)](https://chromicle.github.io/blog)
 
 
-
 ### :octocat: A little more about me...  
 
 ```javascript
@@ -24,6 +23,6 @@ const chromicle = {
 }
 ```
 
-😄 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> :)
+😄 I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> :) 
 
----
+![](https://komarev.com/ghpvc/?username=chromicle)
