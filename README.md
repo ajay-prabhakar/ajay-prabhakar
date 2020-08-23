@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
-<p>Sophomore at <a href="http://amrita.edu">Amrita University 🎓</a>
+<p>Junior at <a href="http://amrita.edu">Amrita University 🎓</a>
 </br>Android Developer | UI designer | Open Source enthusiast</a>
 </em></p>
 
@@ -18,7 +18,8 @@ const chromicle = {
   currentlyLearning: ["UI/UX design", "woo-commerce"],
   currentlyWorkingAs: ["Android developer at CometChat"],
   techCommunities: {
-                        mentor: ["amFOSS", "Codesis", "The dev byte"]
+                        mentor: ["amFOSS", "Codesis", "The dev byte"], 
+                        member: ["cometchat"]
                       },
    pronouns: "He | Him | His"
 }
