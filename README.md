@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
 <p>Junior at <a href="http://amrita.edu">Amrita University 🎓</a>
-</br>Android Developer | UI designer | Open Source enthusiast</a>
+</br>Android & Flutter Developer | UI designer | Open Source enthusiast</a>
 </em></p>
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-chromicle-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chromicle/)
@@ -13,10 +13,10 @@
 
 ```javascript
 const chromicle = {
-  code: [Java, Kotlin, Dart, Python, C, C++],
+  code: [Dart, Java, Kotlin, Python, C, C++],
   askMeAbout: ["UI designing", "Flutter", "Android development", "Git", "Open-source"],
-  currentlyLearning: ["UI/UX design", "woo-commerce"],
-  currentlyWorkingAs: ["Android developer at CometChat"],
+  currentlyLearning: ["UI/UX design", "Advanced flutter concepts"],
+  whatIamDoing: ["Trying to make every pixel very bright in figma and protopie"],
   techCommunities: {
                         mentor: ["amFOSS", "Codesis", "The dev byte"], 
                         member: ["cometchat"]
