@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
-<p>Junior at <a href="http://amrita.edu">Amrita University 🎓</a>
+<p>Senior at <a href="http://amrita.edu">Amrita University 🎓</a>
 </br>Android & Flutter Developer | UI designer | Open Source enthusiast</a>
 </em></p>
 
@@ -19,7 +19,7 @@ const chromicle = {
   whatIamDoing: ["Trying to make every pixel very bright in figma and protopie"],
   techCommunities: {
                         mentor: ["amFOSS", "Codesis", "The dev byte"], 
-                        member: ["cometchat"]
+                        member: ["Nuclei", "Cometchat"]
                       },
    pronouns: "He | Him | His"
 }
