@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
-<p>Senior at <a href="http://amrita.edu">Amrita University 🎓</a>
+<p>Senior at <a href="http://amrita.edu">Amrita University 🎓</a> & SDE intern at <a href="https://gonuclei.com/"> Nuclei </a> 🏡💻
 </br>Android & Flutter Developer | UI designer | Open Source enthusiast</a>
 </em></p>
 
@@ -15,7 +15,7 @@
 const chromicle = {
   code: [Dart, Java, Kotlin, Python, C, C++],
   askMeAbout: ["UI designing", "Flutter", "Android development", "Git", "Open-source"],
-  currentlyLearning: ["UI/UX design", "Advanced flutter concepts"],
+  currentlyLearning: ["UI/UX design", "Flutter web", "React"],
   whatIamDoing: ["Trying to make every pixel very bright in figma and protopie"],
   techCommunities: {
                         mentor: ["amFOSS", "Codesis", "The dev byte"], 
