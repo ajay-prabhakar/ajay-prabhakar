@@ -13,8 +13,8 @@
 
 ```javascript
 const chromicle = {
-  code: [Dart, Java, Kotlin, Python, C, C++],
-  askMeAbout: ["UI designing", "Flutter", "Android development", "Git", "Open-source"],
+  code: [Dart, Java, Kotlin, Swift, Python, C, C++],
+  askMeAbout: ["UI designing", "Flutter", "IOS development", "Git", "Open-source"],
   currentlyLearning: ["UI/UX design", "Flutter web", "React"],
   whatIamDoing: ["Trying to make every pixel very bright in figma and protopie"],
   techCommunities: {
