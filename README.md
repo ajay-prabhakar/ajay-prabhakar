@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
-<p>Senior at <a href="http://amrita.edu">Amrita University 🎓</a> & SDE intern at <a href="https://gonuclei.com/"> Nuclei </a> 🏡💻
-</br>Android & Flutter Developer | UI designer | Open Source enthusiast</a>
+<p>Almuni of <a href="http://amrita.edu">Amrita University 🎓</a> & SDE 1 at <a href="https://gonuclei.com/"> Nuclei </a> 🏡💻
+</br>IOS & Flutter Developer | UI designer | Open Source enthusiast</a>
 </em></p>
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-chromicle-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chromicle/)
