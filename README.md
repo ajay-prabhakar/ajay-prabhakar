@@ -6,16 +6,16 @@
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-chromicle-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chromicle/)
 [![twitter badge](https://img.shields.io/badge/twitter-@chromicle_3-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/chromicle_3)
-[![blog badge](https://img.shields.io/badge/chromicle.github.io/blog-1f425f?style=flat-square)](https://chromicle.github.io/blog)
+[![blog badge](https://img.shields.io/badge/medium-@chromicle-1f425f?style=flat-square)](https://medium.com/@chromicle)
 
 
 ### :octocat: A little more about me...  
 
 ```javascript
 const chromicle = {
-  code: [Dart, Java, Kotlin, Swift, Python, C, C++],
-  askMeAbout: ["UI designing", "Flutter", "IOS development", "Git", "Open-source"],
-  currentlyLearning: ["UI/UX design", "Flutter web", "React"],
+  code: [Dart, Java, Swift, Python, C, C++],
+  askMeAbout: ["UI designing", "Flutter", "IOS development", "LLM's" ,"Git", "Open-source"],
+  currentlyLearning: ["UI/UX design", "Flutter web", "Fine Tuning Ollama models"],
   whatIamDoing: ["Trying to make every pixel very bright in figma and protopie"],
   techCommunities: {
                         mentor: ["amFOSS", "Codesis", "The dev byte"], 
