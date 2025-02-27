@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ajay Prabhakar! 👋</h2>
 
-<p>Almuni of <a href="http://amrita.edu">Amrita University 🎓</a> & SDE 1 at <a href="https://gonuclei.com/"> Nuclei </a> 🏡💻
+<p>Almuni of <a href="http://amrita.edu">Amrita University 🎓</a> & SDE 2 at <a href="https://gonuclei.com/"> Nuclei </a> 🏡💻
 </br>IOS & Flutter Developer | UI designer | Open Source enthusiast</a>
 </em></p>
 
